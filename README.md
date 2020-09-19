@@ -1,4 +1,12 @@
-# MDA
-Repositorio Fundamentos MDA
-**Logo de EDEM**
-![enter image description here](https://www.grupostudio.es/wp-content/uploads/2019/05/edem.png)
+edem2021
+
+
+# Profesores
+#### Pedro Nieto
+#### Miguel Angel Sotomayor
+#### Esteban Chiner
+#### Roberto López
+#### Ruben Sanchís
+
+# Alumnos
+# Inés Rosell
